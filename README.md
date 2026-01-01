@@ -25,7 +25,7 @@ Jackson (conversão JSON)
 Paradigma Orientado a Objetos
 
 ▶️ Como Executar o Projeto
-Clone o repositório: git clone https://github.com/seu-usuario/seu-repositorio.git
+Clone o repositório: git clone https://github.com/erickgsoldier/tabelafipe.git
 Acesse a pasta do projeto com sua IDE de preferência 
 Execute a classe TabelaFipeApplication
 Utilize o menu interativo no terminal para realizar as consultas.
